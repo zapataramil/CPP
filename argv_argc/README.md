@@ -28,13 +28,13 @@ If the argument have an space, then use " " or ' ' to put an space
 
 Image:
 
-![](https://github.com/zapataramil/argv_argc/blob/master/edit1.png)
+![](https://github.com/zapataramil/CPP/argv_argc/blob/master/edit1.png)
 
 
 
 EXAMPLE2:
 
-![](https://github.com/zapataramil/argv_argc/blob/master/edit2.png)
+![](https://github.com/zapataramil/CPP/argv_argc/blob/master/edit2.png)
 
 
 
